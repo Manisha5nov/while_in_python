@@ -6,3 +6,4 @@ while n > 0:
     else:
         print(b, "is odd")
     n = n // 10
+    
