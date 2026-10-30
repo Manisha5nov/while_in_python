@@ -5,4 +5,5 @@ while n>0:
     else:
         print(n,"is odd")
     n=int(input("enter a number :"))
-    
+
+
