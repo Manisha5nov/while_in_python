@@ -5,6 +5,6 @@ while n>0:
     if r>s:
         s=r
     n//=10
-print("largest digit is:",s)  
+print("largest digit is:",s) 
             
     
