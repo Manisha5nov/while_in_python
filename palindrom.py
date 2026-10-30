@@ -9,3 +9,4 @@ if m==c:
     print("The number is a palindrome")
 else:
     print("The number is not a palindrome")
+        
