@@ -11,3 +11,4 @@ while i<=n:
     if c==0:
         print(i)
     i+=1
+    
