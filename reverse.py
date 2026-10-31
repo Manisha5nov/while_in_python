@@ -5,3 +5,4 @@ while n>0:
     r=r*10+rev
     n//=10
     print(r)
+    
